@@ -1,0 +1,70 @@
+.body {
+    background-image: url(bgimages.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    text-align: right;
+    padding: 6px 8px 0px 0px;
+}
+
+.container a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.google {
+    margin-bottom: 40px;
+    padding: 50px 500px;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.search-bar input {
+    width: 600px;
+    padding: 15px 20px;
+    border-radius: 30px;
+    border: none;
+    font-size: 16px;
+    border: 2px solid black;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 0 20px;
+}
+
+.myclass {
+    max-width: 200px;
+    block-size: 100px;
+    width: 100px;
+    text-align: right;
+}
+
+.myclass2 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #333;
+    padding: 10px;
+    margin-left: 27px;
+}
+
+.myclass h5 {
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+    color: white;
+}
