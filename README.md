@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![Google Clone Screenshot](./assets/google-clone-preview.png)  
+![Google Clone Screenshot](google-clone-preview.png)  
 > Replace with your own screenshot image
 
 ---
